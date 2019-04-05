@@ -49,5 +49,12 @@ public class EmbroidedSareesScripts extends BaseTest
 			Reporter.log("Test case failed");
 		}
 	}
+	
+	
+	@Test
+	public void TC_02_buyProduct()
+	{
+		
+	}
 
 }
