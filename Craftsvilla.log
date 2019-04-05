@@ -1,0 +1,76 @@
+2019-04-04 20:56:30 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ece5ce4eb3245d3c1a1f508cad594ccc)] -> xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]] found
+2019-04-04 20:56:30 INFO  BasePage:64 - Mousehovered on [[ChromeDriver: chrome on XP (ece5ce4eb3245d3c1a1f508cad594ccc)] -> xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]]
+2019-04-04 20:56:30 INFO  BasePage:84 - 
+2019-04-04 20:56:31 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ece5ce4eb3245d3c1a1f508cad594ccc)] -> link text: Embroidered Sarees] found
+2019-04-04 20:56:51 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ece5ce4eb3245d3c1a1f508cad594ccc)] -> xpath: //img[contains(@src,'1538760092-Craftsvilla_1.jpg')]] found
+2019-04-04 20:57:00 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ece5ce4eb3245d3c1a1f508cad594ccc)] -> xpath: //h1[@itemprop='name']] found
+2019-04-04 20:57:01 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ece5ce4eb3245d3c1a1f508cad594ccc)] -> id: buynow] found
+2019-04-04 20:57:07 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ece5ce4eb3245d3c1a1f508cad594ccc)] -> id: address-first-name] found
+2019-04-04 20:57:07 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ece5ce4eb3245d3c1a1f508cad594ccc)] -> id: address-email] found
+2019-04-04 20:57:08 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (ece5ce4eb3245d3c1a1f508cad594ccc)] -> id: address-mobileno] found
+2019-04-04 20:59:42 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (0a82d92ad48b893ec3ab4d08112f440e)] -> xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]] found
+2019-04-04 20:59:42 INFO  BasePage:64 - Mousehovered on [[ChromeDriver: chrome on XP (0a82d92ad48b893ec3ab4d08112f440e)] -> xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]]
+2019-04-04 20:59:42 INFO  BasePage:84 - 
+2019-04-04 20:59:43 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (0a82d92ad48b893ec3ab4d08112f440e)] -> link text: Embroidered Sarees] found
+2019-04-04 20:59:57 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (0a82d92ad48b893ec3ab4d08112f440e)] -> xpath: //img[contains(@src,'1538760092-Craftsvilla_1.jpg')]] found
+2019-04-04 21:00:05 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (0a82d92ad48b893ec3ab4d08112f440e)] -> xpath: //h1[@itemprop='name']] found
+2019-04-04 21:01:58 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (f55eaa1aec75e660f2bf283b69d1fb53)] -> xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]] found
+2019-04-04 21:01:58 INFO  BasePage:64 - Mousehovered on [[ChromeDriver: chrome on XP (f55eaa1aec75e660f2bf283b69d1fb53)] -> xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]]
+2019-04-04 21:01:58 INFO  BasePage:84 - 
+2019-04-04 21:02:00 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (f55eaa1aec75e660f2bf283b69d1fb53)] -> link text: Embroidered Sarees] found
+2019-04-04 21:02:14 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (f55eaa1aec75e660f2bf283b69d1fb53)] -> xpath: //img[contains(@src,'1538760092-Craftsvilla_1.jpg')]] found
+2019-04-04 21:02:27 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (f55eaa1aec75e660f2bf283b69d1fb53)] -> xpath: //h1[@itemprop='name']] found
+2019-04-04 21:19:02 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (b29ae5b9deddc08ede11a27910b469f0)] -> xpath: //span[text()='Sign In']] found
+2019-04-04 21:19:02 INFO  BasePage:56 - Clicked on [[ChromeDriver: chrome on XP (b29ae5b9deddc08ede11a27910b469f0)] -> xpath: //span[text()='Sign In']]
+2019-04-04 21:19:03 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (b29ae5b9deddc08ede11a27910b469f0)] -> id: emailId] found
+2019-04-04 21:19:05 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (b29ae5b9deddc08ede11a27910b469f0)] -> id: continueBtn] found
+2019-04-04 21:19:06 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (b29ae5b9deddc08ede11a27910b469f0)] -> xpath: //input[@type='password']] found
+2019-04-04 21:19:16 ERROR BasePage:72 - 
+2019-04-04 21:19:16 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (b29ae5b9deddc08ede11a27910b469f0)] -> id: loginCheck] found
+2019-04-04 21:19:47 ERROR BasePage:52 - Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='My Account']' not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='My Account']' (tried for 10 second(s) with 500 milliseconds interval)
+2019-04-04 21:20:07 ERROR BasePage:69 - Unable to mousehover on Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='My Account']' : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='My Account']"}
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.113', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.46.628402 (536cd7adbad73a..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:51369}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: b29ae5b9deddc08ede11a27910b469f0
+*** Element info: {Using=xpath, value=//span[text()='My Account']}
+2019-04-04 21:20:25 ERROR BasePage:111 - 
+2019-04-04 21:21:30 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //span[text()='Sign In']] found
+2019-04-04 21:21:31 INFO  BasePage:56 - Clicked on [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //span[text()='Sign In']]
+2019-04-04 21:21:31 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> id: emailId] found
+2019-04-04 21:21:33 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> id: continueBtn] found
+2019-04-04 21:21:34 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //input[@type='password']] found
+2019-04-04 21:21:35 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> id: loginCheck] found
+2019-04-04 21:21:44 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //span[text()='My Account']] found
+2019-04-04 21:21:44 INFO  BasePage:64 - Mousehovered on [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //span[text()='My Account']]
+2019-04-04 21:21:44 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //img[@class='logout-icon mr-2']] found
+2019-04-04 21:21:50 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //span[text()='Sign In']] found
+2019-04-04 21:21:51 INFO  BasePage:56 - Clicked on [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //span[text()='Sign In']]
+2019-04-04 21:21:51 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> id: emailId] found
+2019-04-04 21:21:53 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> id: continueBtn] found
+2019-04-04 21:21:54 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //input[@type='password']] found
+2019-04-04 21:21:54 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> id: loginCheck] found
+2019-04-04 21:22:02 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //span[text()='My Account']] found
+2019-04-04 21:22:03 INFO  BasePage:64 - Mousehovered on [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //span[text()='My Account']]
+2019-04-04 21:22:03 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //img[@class='logout-icon mr-2']] found
+2019-04-04 21:22:08 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //span[text()='Sign In']] found
+2019-04-04 21:22:08 INFO  BasePage:56 - Clicked on [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //span[text()='Sign In']]
+2019-04-04 21:22:09 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> id: emailId] found
+2019-04-04 21:22:10 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> id: continueBtn] found
+2019-04-04 21:22:11 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //input[@type='password']] found
+2019-04-04 21:22:12 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> id: loginCheck] found
+2019-04-04 21:22:20 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //span[text()='My Account']] found
+2019-04-04 21:22:21 INFO  BasePage:64 - Mousehovered on [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //span[text()='My Account']]
+2019-04-04 21:22:21 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //img[@class='logout-icon mr-2']] found
+2019-04-04 21:22:26 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //span[text()='Sign In']] found
+2019-04-04 21:22:26 INFO  BasePage:56 - Clicked on [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //span[text()='Sign In']]
+2019-04-04 21:22:27 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> id: emailId] found
+2019-04-04 21:22:28 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> id: continueBtn] found
+2019-04-04 21:22:29 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> xpath: //input[@type='password']] found
+2019-04-04 21:22:30 INFO  BasePage:48 - [[ChromeDriver: chrome on XP (04824c063c68f8962b5fe02778e56e7b)] -> id: loginCheck] found
+2019-04-04 21:22:39 ERROR BasePage:98 - 
